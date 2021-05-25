@@ -52,9 +52,5 @@
       <Generator>SpecFlowSingleFileGenerator</Generator>
       <LastGenOutput>ShareSkill.feature.cs</LastGenOutput>
     </SpecFlowFeatureFiles>
-    <SpecFlowFeatureFiles Update="FeatureFiles\demo.feature">
-      <Generator>SpecFlowSingleFileGenerator</Generator>
-      <LastGenOutput>demo.feature.cs</LastGenOutput>
-    </SpecFlowFeatureFiles>
   </ItemGroup>
 </Project>
